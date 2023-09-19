@@ -1,4 +1,4 @@
-from markov_chain_reducer import Link, MarkovChainReducer
+from markov_chain_reducer_soa import Link, MarkovChainReducer
 
 
 def task1():
