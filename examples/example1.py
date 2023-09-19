@@ -1,4 +1,4 @@
-from formulas import Link, MarkovChainReducer
+from markov_chain_reducer import Link, MarkovChainReducer
 
 
 def task1():
